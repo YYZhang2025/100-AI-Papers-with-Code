@@ -1,0 +1,42 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/100-AI-Papers/01-transformer/post.html",
+      "/posts/100-AI-Papers/02-vision-transformer/post.html",
+      "/posts/100-AI-Papers/03-deit/post.html",
+      "/posts/100-AI-Papers/04-swin-transformer/post.html",
+      "/posts/100-AI-Papers/05-vivit/ViViT.html",
+      "/posts/100-AI-Papers/06-clip/CLIP.html",
+      "/posts/100-AI-Papers/07-dino/DINO.html",
+      "/posts/100-AI-Papers/08-vae/VAE.html",
+      "/posts/100-AI-Papers/09-mae/MAE.html",
+      "/posts/100-AI-Papers/100_Papers_index.html",
+      "/posts/100-AI-Papers/10-pixel-gated-cnn/Pixel Gated CNN.html",
+      "/posts/100-AI-Papers/11-vq-vae/VQ_VAE.html",
+      "/posts/100-AI-Papers/15-stable-diffusion/Latent Diffusion Model.html",
+      "/posts/100-AI-Papers/16-dit/DiT.html",
+      "/posts/100-AI-Papers/17-flash-attention/Flash Attention.html",
+      "/404.html"
+    ]
+  },
+  {
+    "listing": "/posts/100-AI-Papers/100_Papers_index.html",
+    "items": [
+      "/posts/100-AI-Papers/01-transformer/post.html",
+      "/posts/100-AI-Papers/02-vision-transformer/post.html",
+      "/posts/100-AI-Papers/03-deit/post.html",
+      "/posts/100-AI-Papers/04-swin-transformer/post.html",
+      "/posts/100-AI-Papers/05-vivit/ViViT.html",
+      "/posts/100-AI-Papers/06-clip/CLIP.html",
+      "/posts/100-AI-Papers/07-dino/DINO.html",
+      "/posts/100-AI-Papers/08-vae/VAE.html",
+      "/posts/100-AI-Papers/09-mae/MAE.html",
+      "/posts/100-AI-Papers/10-pixel-gated-cnn/Pixel Gated CNN.html",
+      "/posts/100-AI-Papers/11-vq-vae/VQ_VAE.html",
+      "/posts/100-AI-Papers/15-stable-diffusion/Latent Diffusion Model.html",
+      "/posts/100-AI-Papers/16-dit/DiT.html",
+      "/posts/100-AI-Papers/17-flash-attention/Flash Attention.html"
+    ]
+  }
+]
